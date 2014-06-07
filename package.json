@@ -1,7 +1,7 @@
 {
-    "name": "best-practices",
-    "description": "A package using versioning best-practices",
-    "author": "Charlie Robbins <charlie@nodejitsu.com>",
+    "name": "react-tinymce-experiment",
+    "description": "Trying to get tinymce to play nice with react",
+    "author": "James Richardson",
     "version" : "0.0.1",
     "dependencies" : {
         "react": "0.10.0",
